@@ -1,0 +1,42 @@
+[
+    {
+        "question_no": "1",
+        "question_title": "In a group of 35 people, 22 are wearing spectacles, 10 are wearing a hat, 6 are wearing spectacles and a hat. What are the number of people who are wearing neither spectacles nor a hat?",
+        "question_img": "",
+        "question_option_a":"10",
+        "question_option_b": "8",
+        "question_option_c": "9",
+        "question_option_d": "11",
+        "question_option_e": "None of the above",
+        "question_appeared":"false",
+        "correct_answer": "question_option_c",
+        "time_allowed":"120"
+    },
+    {
+        "question_no": "2",
+        "question_title": "By writing each number correct to 2 significant figures, estimate the value of",
+        "question_img": "https://i.imgur.com/tMXXSpe.png",
+        "question_option_a":"8",
+        "question_option_b": "0.8",
+        "question_option_c": "80",
+        "question_option_d": "4",
+        "question_option_e": "16",
+        "question_appeared":"false",
+        "correct_answer": "question_option_b",
+        "time_allowed":"90"
+    },
+    {
+        "question_no": "3",
+        "question_title": "What is the next term of this sequence?",
+        "question_img": "https://i.imgur.com/nNOIHnD.png",
+        "question_option_a":"23/24",
+        "question_option_b": "23/25",
+        "question_option_c": "24/25",
+        "question_option_d": "21/22",
+        "question_option_e": "29/30",
+        "question_appeared":"false",
+        "correct_answer": "question_option_a",
+        "time_allowed":"60"
+    }
+
+]
